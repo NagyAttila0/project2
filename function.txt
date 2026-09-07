@@ -3,3 +3,5 @@ function Add(a, b) {
 }
 
 Add(2, 3);
+
+factorial(5);
