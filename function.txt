@@ -4,10 +4,12 @@ function Add(a, b) {
 
 Add(2, 3);
 
-<<<<<<< HEAD
+factorial(5);
+
+
 // alap verzió módosítva
-=======
+
 function Subtract(a, b) {
     return a - b;
 }
->>>>>>> feature
+
